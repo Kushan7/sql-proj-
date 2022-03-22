@@ -1,5 +1,5 @@
 # Telephone Directory
-![Hi](https://i.ibb.co/JCk4XHJ/TELEPHONE-DIRECTORY.png)
+![Hi](https://i.ibb.co/vzrc3D0/TELEPHONE-DIRECTORY-981-490-px.png)
 In this sql based python program you can add, edit and search for contacts in your python library.
 # Usage
 To use this program you have to install mysql in your computer and replace the password field in the program with your mysql password.
